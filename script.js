@@ -1,5 +1,5 @@
 if (typeof(window.Persistence) === 'undefined') {
-  var _persistenceKey = 'github.com/SimonLammer/anki-persistence/';
+  var _persistenceKey = 'wayneyao_anki_';
   var _defaultKey = '_default';
   window.Persistence_sessionStorage = function() { // used in android, iOS, web
     var isAvailable = false;
